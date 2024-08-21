@@ -1,0 +1,12 @@
+body{
+    color:green;
+    background:gold;
+    margin:0px;
+}
+
+header{
+    border-bottom: solid 2px green;
+    padding:20px;
+    font-size:32px;
+    color:green;
+}
